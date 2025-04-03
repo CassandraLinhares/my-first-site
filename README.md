@@ -16,6 +16,7 @@ Hi! I’m Cas 🌻 and this is my very first project as I learn full-stack web d
 
 ## 🔗 How to View This Project
 > Right now, this isn’t deployed to the web — but you can see the code and run it locally!
+>UPDATED: this has now been deployed locally to test out how github pages works!
 
 1. Download the files
 2. Open `index.html` in your browser
